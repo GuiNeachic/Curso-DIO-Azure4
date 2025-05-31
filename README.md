@@ -1,5 +1,5 @@
 # Curso-DIO-Azure4
-Como por motivos desconhecidos a minha assinatura Azure para estudantes foi desativada, eu não  consegui realizar o projeto. Então escrevi um texto Sobre o GitHub, Azure DevOps, Versionamento e Backups.
+Como por motivos desconhecidos a minha assinatura Azure para estudantes foi desativada, eu não  consegui realizar o projeto. Então escrevi um texto em tópicos sobre o GitHub, Azure DevOps, Versionamento e Backups.
 
  GitHub e Azure DevOps: O que são?
  
